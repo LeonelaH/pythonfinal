@@ -32,7 +32,6 @@ Su nombre es un acrónimo recursivo que significa "Pip Installs Packages" (Pip i
 ***Seguridad:*** Las versiones más recientes de pip incluyen parches de seguridad que corrigen vulnerabilidades conocidas. 
 Utilizar una versión desactualizada puede exponer tu entorno a riesgos de seguridad.
 ***Nuevas Funcionalidades:*** Cada nueva versión de pip puede incluir nuevas características y mejoras que no están disponibles en versiones anteriores.
-
 ***Corrección de Errores:*** Las actualizaciones de pip a menudo incluyen correcciones de errores que pueden mejorar la estabilidad y el rendimiento del gestor de paquetes.
-Compatibilidad: Las versiones más recientes de pip suelen ser más compatibles con las versiones más recientes de Python y con otros paquetes.
+***Compatibilidad:*** Las versiones más recientes de pip suelen ser más compatibles con las versiones más recientes de Python y con otros paquetes.
 ***Rendimiento:*** Las actualizaciones pueden incluir mejoras en el rendimiento que hacen que pip funcione de manera más eficiente.
